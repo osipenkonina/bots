@@ -1,4 +1,4 @@
-import telebot
+import Telebot
 import requests
 import const
 import random
